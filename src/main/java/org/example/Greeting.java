@@ -1,2 +1,5 @@
-package org.example;public interface Greeting {
+package org.example;
+
+public interface Greeting {
+    public void showGreeting();
 }
